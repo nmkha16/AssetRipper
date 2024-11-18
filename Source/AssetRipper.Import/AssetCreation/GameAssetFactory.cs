@@ -79,7 +79,7 @@ namespace AssetRipper.Import.AssetCreation
 					}
 					else
 					{
-						monoBehaviour.Structure = null;
+						//monoBehaviour.Structure = null;
 					}
 				}
 				else
